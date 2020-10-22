@@ -1,3 +1,3 @@
-module github.com/tilinna/z85
+module github.com/winpuc/z85
 
 go 1.12
